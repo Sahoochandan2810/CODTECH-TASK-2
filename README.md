@@ -9,7 +9,7 @@ DOMAIN: WEB DEVELOPMENT
 
 DURATION: 1st JUNE 2024 TO 13th JULY 2024
 
-MENTOR:
+MENTOR:Muzammil Mohammed
 
 Overview of the Project:
 
